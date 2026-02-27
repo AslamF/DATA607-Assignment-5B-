@@ -1,0 +1,9 @@
+---
+title: "Assignment5B"
+format: html
+editor: visual
+---
+
+## Approach
+
+From my understanding in this assignment we will take we will be taking a calculation score and comparing it to the score in the data-set. This calculated score will come from an ELO formula. The assignment seems like i will have to take the data for each individual which is already available from project 1 and plug in that information to an ELO formula. Then present the calculated ELO vs the actual ELO and display the difference in the best format, either in table or graph. Graph may be useful to display differences.
